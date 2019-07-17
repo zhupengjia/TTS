@@ -5,3 +5,4 @@ scipy
 Unidecode==0.4.20
 Pillow
 lws
+tqdm
